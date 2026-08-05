@@ -1,5 +1,5 @@
 ---
-layout:home
-title:Home
+layout: home
+title: "Home"
 ---
 # iron-trianlge-tech.github.io
