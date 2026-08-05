@@ -1,2 +1,2 @@
 
-# iron-trianlge-tech.github.io
+# iron-triangle-tech.github.io
